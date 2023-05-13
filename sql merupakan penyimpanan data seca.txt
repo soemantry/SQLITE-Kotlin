@@ -1,0 +1,1 @@
+sql merupakan penyimpanan data secara lokal dan akan masuk ke storage android.
